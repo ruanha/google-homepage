@@ -1,0 +1,63 @@
+.navbar {
+    margin: 20px;
+    line-height: 28px;
+    text-align: right;
+}
+.navbar a {
+    font-size: 13px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #100;
+}
+
+#signin {
+    background: -moz-linear-gradient(top,#4387fd,#4683ea);
+    padding: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.main {
+    text-align: center; 
+    margin-top:170px;
+}
+
+.logo {
+    margin: 30px;
+}
+
+.buttons {
+    background: #eee;
+    border: 1px none;
+    margin-top: 30px;
+}
+
+#searchfield {
+    border: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    width: 550px;
+    padding: 10px;
+}
+.languages {
+    margin-right: 10px;
+    font-size: 13px;
+}
+.languages a {
+    text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+#left {
+}
+
+#right {
+    position: absolute;
+    right: 10px;
+}
